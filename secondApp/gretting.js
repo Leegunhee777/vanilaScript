@@ -59,7 +59,7 @@ localStorage.setItem("nico",true);
 
 (값을 부르는법)
 localStorage.getItem("nico");
-//"true" 가 반환됨
+//"true" 가 반환됨 ,문자열이 반환됨
 
 
 //form 에서 Enter를 누르면

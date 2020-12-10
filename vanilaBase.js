@@ -97,6 +97,8 @@ document.title = "I own you now"  //index.html document를 객체로서 가져�
 ******************************************************************************
 중요!!!
 //자바스크립트로 HTML의 document를 가져오면, 모두 객체가 된다.!!!!!
+//여기서 document란 .html을 의미한다.
+//그 안에 있는 <h2>.. 이런것들은 element라 한다.
 //모든 HTML은 객체가된다는말.
 
 //본 예제에서도 getElementById를 사용해 해당 document를 
